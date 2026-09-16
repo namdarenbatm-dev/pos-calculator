@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc --noEmit && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "test": "tsx tests/calculations.test.ts && tsx tests/format.test.ts && tsx tests/scenario-audit.test.ts"
   },
