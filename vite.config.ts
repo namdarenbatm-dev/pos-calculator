@@ -19,13 +19,8 @@ export default defineConfig({
         dir: "rtl",
         icons: [
           {
-            src: "/98A01630-7A7E-4EDB-BAA6-73F3AFC42FFE%20(1).png",
-            sizes: "192x192",
-            type: "image/png"
-          },
-          {
-            src: "/CBDD8243-7A49-4D47-B80B-7B2F4980F3C0.png",
-            sizes: "512x512",
+            src: "/98A01630-7A7E-4EDB-BAA6-73F3AFC42FFE.png",
+            sizes: "1254x1254",
             type: "image/png"
           }
         ]
